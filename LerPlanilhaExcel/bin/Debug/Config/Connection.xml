@@ -1,0 +1,11 @@
+﻿<ConnectionData>
+	<DBCompany>SBOTESTE</DBCompany>
+	<SAPUserName>manager</SAPUserName>
+	<SAPPassword>1234</SAPPassword>
+	<AddressLayer>https://DESKTOP-MUO39UR:50000/b1s/v1</AddressLayer>
+	<ServerLayer>DESKTOP-MUO39UR</ServerLayer>
+	<ServerDB>DESKTOP-MUO39UR</ServerDB>
+	<UserDB>sa</UserDB>
+	<PasswordDB>1234</PasswordDB>
+	<Language>19</Language>
+</ConnectionData>
