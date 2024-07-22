@@ -1,4 +1,5 @@
-﻿using LerPlanilhaExcel.Models;
+﻿using LerPlanilhaExcel.ExcelModels;
+using LerPlanilhaExcel.Models;
 using RestSharp;
 using System;
 using System.Collections.Generic;
@@ -15,11 +16,9 @@ namespace LerPlanilhaExcel.Common
 {
     class SAPConnect
     {
-
         private static string B1Session;
         private static String _slAddress;
         private static String _slServer;
-
         public static void ReadAddress()
         {
             try
@@ -35,13 +34,14 @@ namespace LerPlanilhaExcel.Common
                 foreach (XmlNode xn in xnNode)
                 {
                     _slAddress = xn["AddressLayer"].InnerText;
-                    _slServer = xn["ServerLayer"].InnerText;          
+                    _slServer = xn["ServerLayer"].InnerText;
 
                 }
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                LogCreate.Log(ex.Message);
             }
         }
         public static string SAPLogin()
@@ -62,63 +62,65 @@ namespace LerPlanilhaExcel.Common
                 IRestResponse rest = client.Execute(request);
 
                 B1Session = rest.Cookies.FirstOrDefault().Value;
-                DateTime today = DateTime.Now;
 
-                if (rest.StatusCode == HttpStatusCode.OK)
+                if (rest.StatusCode != HttpStatusCode.OK)
                 {
-                    Console.WriteLine($"Conexão realizada com sucesso na base de dados: {login.CompanyDB}.\n");
-                    return B1Session;
-                }
-                else
-                {
-                    Console.WriteLine($"Erro - {rest.StatusDescription.ToString()}");
+                    Console.WriteLine($"{DateTime.Now} - Erro: {rest.StatusDescription.ToString()}");
+                    LogCreate.Log(rest.StatusDescription.ToString());
                     return null;
                 }
+
+                Console.WriteLine($"{DateTime.Now} - Conexão realizada com sucesso na base de dados: {login.CompanyDB}.\n");
+                LogCreate.Log($"{DateTime.Now} - Conexão realizada com sucesso na base de dados: {login.CompanyDB}.\n");
+                return B1Session;
 
             }
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                LogCreate.Log(ex.Message);
                 return null;
-            }           
+            }
 
         }
         public static void UpdateBP(BusinessPartner oBP, int line)
         {
+
+            if (string.IsNullOrEmpty(B1Session))
+                SAPLogin();
+
             try
             {
-                var client = new RestClient(_slAddress);                
+                var client = new RestClient(_slAddress);
                 var request = new RestRequest($"/BusinessPartners('{oBP.CardCode}')", Method.PATCH);
                 request.AddHeader("Content-Type", "application/json");
-                
-                var body = Newtonsoft.Json.JsonConvert.SerializeObject(oBP);                
-                request.AddParameter("application/json", body, ParameterType.RequestBody);                
 
-                CookieContainer cookiecon = new CookieContainer();                
-                cookiecon.Add(new Cookie("B1SESSION", B1Session, "/b1s/v1", _slServer)); 
+                var body = Newtonsoft.Json.JsonConvert.SerializeObject(oBP);
+                request.AddParameter("application/json", body, ParameterType.RequestBody);
+
+                CookieContainer cookiecon = new CookieContainer();
+                cookiecon.Add(new Cookie("B1SESSION", B1Session, "/b1s/v1", _slServer));
                 client.CookieContainer = cookiecon;
-                
-                ServicePointManager.ServerCertificateValidationCallback += new System.Net.Security.RemoteCertificateValidationCallback(ValidateServerCertificate);               
+
+                ServicePointManager.ServerCertificateValidationCallback += new System.Net.Security.RemoteCertificateValidationCallback(ValidateServerCertificate);
 
                 IRestResponse response = client.Execute(request);
 
-                switch (response.StatusCode)
+                if (response.StatusCode != HttpStatusCode.NoContent)
                 {
-                    case HttpStatusCode.NoContent:
-                        Console.WriteLine($"#Service Layer - #{line}º Parceiro de negocio: {oBP.CardCode}, atualizado com sucesso.");
-                        break;
-
-                    default:
-                        dynamic ret = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(response.Content);
-                        DateTime today = DateTime.Today;
-                        Console.WriteLine($"{today} - Erro: {ret.error.message.value}");
-                        break;
+                    dynamic ret = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(response.Content);
+                    Console.WriteLine($"{DateTime.Now} - Erro: #{line}º - {ret.error.message.value}");
+                    LogCreate.Log($"{DateTime.Now} - Erro: #{line}º - {ret.error.message.value}");
                 }
 
+                Console.WriteLine($"{DateTime.Now} - #{line}º Parceiro de negocio: {oBP.CardCode}, atualizado com sucesso.");
+                LogCreate.Log($"#{DateTime.Now} - #{line}º Parceiro de negocio: {oBP.CardCode}, atualizado com sucesso.");
+
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
+                LogCreate.Log(ex.Message);
             }
 
         }

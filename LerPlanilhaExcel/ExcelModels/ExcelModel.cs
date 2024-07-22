@@ -1,7 +1,9 @@
 ﻿using ClosedXML.Excel;
 using LerPlanilhaExcel.Common;
+using LerPlanilhaExcel.ExcelModels;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 
@@ -16,11 +18,15 @@ namespace LerPlanilhaExcel.Models
 
                 BusinessPartner oBP = new BusinessPartner();
 
-                var xls = new XLWorkbook(@"C:\Users\SAPB1DEV\Desktop\_source\BusinessPartner.xlsx");
-                var planilha = xls.Worksheets.First(w => w.Name == "Plan1");
+                var directy = AppDomain.CurrentDomain.BaseDirectory;
+                var path = Path.Combine(directy, @"Arquivo\\BusinessPartners.xlsx");
+
+                var xls = new XLWorkbook(path);
+                var planilha = xls.Worksheets.First(w => w.Name == "Planilha1");
                 var totalLinhas = planilha.Rows().Count();
 
-                Console.WriteLine($"Quantidade: {totalLinhas - 1}\n");
+                Console.WriteLine($"{DateTime.Now} - Quantidade de cadastro(s): {totalLinhas - 1}.\n");
+                LogCreate.Log($"{DateTime.Now} - Quantidade de cadastro(s): {totalLinhas - 1}.\n");
 
                 for (int i = 2; i <= totalLinhas; i++)
                 {
@@ -37,7 +43,8 @@ namespace LerPlanilhaExcel.Models
             }
             catch (Exception ex)
             {
-                Console.WriteLine(ex.Message);
+                Console.WriteLine($"{DateTime.Now} - {ex.Message}");
+                LogCreate.Log($"{DateTime.Now} - {ex.Message}");
             }
         }
     }

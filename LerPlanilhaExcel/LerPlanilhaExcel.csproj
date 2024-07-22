@@ -128,6 +128,7 @@
   <ItemGroup>
     <Compile Include="Common\SAPConnect.cs" />
     <Compile Include="ExcelModels\ExcelModel.cs" />
+    <Compile Include="ExcelModels\LogCreate.cs" />
     <Compile Include="Models\BusinessPartner.cs" />
     <Compile Include="Models\LoginModel.cs" />
     <Compile Include="Program.cs" />
@@ -135,6 +136,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Arquivo\BusinessPartners.xlsx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -142,5 +146,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

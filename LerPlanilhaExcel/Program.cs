@@ -1,4 +1,5 @@
 ﻿using LerPlanilhaExcel.Common;
+using LerPlanilhaExcel.ExcelModels;
 using LerPlanilhaExcel.Models;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,8 @@ namespace LerPlanilhaExcel
     {
         static void Main(string[] args)
         {
-            SAPConnect.SAPLogin();
+            Console.WriteLine($"{DateTime.Now} - Iniciando processo de atualização.\n");
+            LogCreate.Log($"{DateTime.Now} - Iniciando processo de atualização.\n");
 
             ExcelModel.ReadExcel();
             Thread.Sleep(5000);
