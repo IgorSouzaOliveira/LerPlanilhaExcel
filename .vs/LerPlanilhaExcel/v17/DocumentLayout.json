@@ -1,71 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\igor.oliveira\\Desktop\\_source\\LerPlanilhaExcel\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0052FDCD-1C13-47B4-BDA4-F7E970F2FACA}|LerPlanilhaExcel\\LerPlanilhaExcel.csproj|c:\\users\\igor.oliveira\\desktop\\_source\\lerplanilhaexcel\\lerplanilhaexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0052FDCD-1C13-47B4-BDA4-F7E970F2FACA}|LerPlanilhaExcel\\LerPlanilhaExcel.csproj|solutionrelative:lerplanilhaexcel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0052FDCD-1C13-47B4-BDA4-F7E970F2FACA}|LerPlanilhaExcel\\LerPlanilhaExcel.csproj|c:\\users\\igor.oliveira\\desktop\\_source\\lerplanilhaexcel\\lerplanilhaexcel\\excelmodels\\excelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0052FDCD-1C13-47B4-BDA4-F7E970F2FACA}|LerPlanilhaExcel\\LerPlanilhaExcel.csproj|solutionrelative:lerplanilhaexcel\\excelmodels\\excelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0052FDCD-1C13-47B4-BDA4-F7E970F2FACA}|LerPlanilhaExcel\\LerPlanilhaExcel.csproj|c:\\users\\igor.oliveira\\desktop\\_source\\lerplanilhaexcel\\lerplanilhaexcel\\excelmodels\\logcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0052FDCD-1C13-47B4-BDA4-F7E970F2FACA}|LerPlanilhaExcel\\LerPlanilhaExcel.csproj|solutionrelative:lerplanilhaexcel\\excelmodels\\logcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\igor.oliveira\\Desktop\\_source\\LerPlanilhaExcel\\LerPlanilhaExcel\\Program.cs",
-              "RelativeDocumentMoniker": "LerPlanilhaExcel\\Program.cs",
-              "ToolTip": "C:\\Users\\igor.oliveira\\Desktop\\_source\\LerPlanilhaExcel\\LerPlanilhaExcel\\Program.cs",
-              "RelativeToolTip": "LerPlanilhaExcel\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T14:33:39.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExcelModel.cs",
-              "DocumentMoniker": "C:\\Users\\igor.oliveira\\Desktop\\_source\\LerPlanilhaExcel\\LerPlanilhaExcel\\ExcelModels\\ExcelModel.cs",
-              "RelativeDocumentMoniker": "LerPlanilhaExcel\\ExcelModels\\ExcelModel.cs",
-              "ToolTip": "C:\\Users\\igor.oliveira\\Desktop\\_source\\LerPlanilhaExcel\\LerPlanilhaExcel\\ExcelModels\\ExcelModel.cs",
-              "RelativeToolTip": "LerPlanilhaExcel\\ExcelModels\\ExcelModel.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T14:17:32.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogCreate.cs",
-              "DocumentMoniker": "C:\\Users\\igor.oliveira\\Desktop\\_source\\LerPlanilhaExcel\\LerPlanilhaExcel\\ExcelModels\\LogCreate.cs",
-              "RelativeDocumentMoniker": "LerPlanilhaExcel\\ExcelModels\\LogCreate.cs",
-              "ToolTip": "C:\\Users\\igor.oliveira\\Desktop\\_source\\LerPlanilhaExcel\\LerPlanilhaExcel\\ExcelModels\\LogCreate.cs",
-              "RelativeToolTip": "LerPlanilhaExcel\\ExcelModels\\LogCreate.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-21T14:11:34.766Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -1,0 +1,434 @@
+25/07/2024 10:51:23 - Iniciando processo de atualização.
+
+25/07/2024 10:51:24 - Quantidade de cadastro(s): 335.
+
+25/07/2024 10:51:25 - Conexão realizada com sucesso na base de dados: SBOPRODMR.
+
+#25/07/2024 10:51:26 - #0º Parceiro de negocio: CL011329, atualizado com sucesso.
+#25/07/2024 10:51:27 - #1º Parceiro de negocio: CL011878, atualizado com sucesso.
+#25/07/2024 10:51:28 - #2º Parceiro de negocio: CL012835, atualizado com sucesso.
+#25/07/2024 10:51:29 - #3º Parceiro de negocio: CL012862, atualizado com sucesso.
+#25/07/2024 10:51:30 - #4º Parceiro de negocio: CL012934, atualizado com sucesso.
+#25/07/2024 10:51:31 - #5º Parceiro de negocio: CL012935, atualizado com sucesso.
+#25/07/2024 10:51:32 - #6º Parceiro de negocio: CL013066, atualizado com sucesso.
+#25/07/2024 10:51:33 - #7º Parceiro de negocio: CL013143, atualizado com sucesso.
+#25/07/2024 10:51:34 - #8º Parceiro de negocio: CL013313, atualizado com sucesso.
+#25/07/2024 10:51:35 - #9º Parceiro de negocio: CL013334, atualizado com sucesso.
+#25/07/2024 10:51:36 - #10º Parceiro de negocio: CL013756, atualizado com sucesso.
+#25/07/2024 10:51:37 - #11º Parceiro de negocio: CL013780, atualizado com sucesso.
+#25/07/2024 10:51:37 - #12º Parceiro de negocio: CL013911, atualizado com sucesso.
+#25/07/2024 10:51:38 - #13º Parceiro de negocio: CL013930, atualizado com sucesso.
+#25/07/2024 10:51:39 - #14º Parceiro de negocio: CL014041, atualizado com sucesso.
+#25/07/2024 10:51:40 - #15º Parceiro de negocio: CL014129, atualizado com sucesso.
+#25/07/2024 10:51:41 - #16º Parceiro de negocio: CL014161, atualizado com sucesso.
+#25/07/2024 10:51:42 - #17º Parceiro de negocio: CL014334, atualizado com sucesso.
+#25/07/2024 10:51:42 - #18º Parceiro de negocio: CL014354, atualizado com sucesso.
+#25/07/2024 10:51:43 - #19º Parceiro de negocio: CL014355, atualizado com sucesso.
+#25/07/2024 10:51:44 - #20º Parceiro de negocio: CL014499, atualizado com sucesso.
+#25/07/2024 10:51:44 - #21º Parceiro de negocio: CL015300, atualizado com sucesso.
+#25/07/2024 10:51:45 - #22º Parceiro de negocio: CL015364, atualizado com sucesso.
+#25/07/2024 10:51:46 - #23º Parceiro de negocio: CL015675, atualizado com sucesso.
+#25/07/2024 10:51:46 - #24º Parceiro de negocio: CL015680, atualizado com sucesso.
+#25/07/2024 10:51:47 - #25º Parceiro de negocio: CL015686, atualizado com sucesso.
+#25/07/2024 10:51:47 - #26º Parceiro de negocio: CL015774, atualizado com sucesso.
+#25/07/2024 10:51:48 - #27º Parceiro de negocio: CL016444, atualizado com sucesso.
+#25/07/2024 10:51:49 - #28º Parceiro de negocio: CL016446, atualizado com sucesso.
+#25/07/2024 10:51:49 - #29º Parceiro de negocio: CL016837, atualizado com sucesso.
+#25/07/2024 10:51:50 - #30º Parceiro de negocio: CL016840, atualizado com sucesso.
+#25/07/2024 10:51:51 - #31º Parceiro de negocio: CL016841, atualizado com sucesso.
+#25/07/2024 10:51:51 - #32º Parceiro de negocio: CL016985, atualizado com sucesso.
+#25/07/2024 10:51:52 - #33º Parceiro de negocio: CL016991, atualizado com sucesso.
+#25/07/2024 10:51:53 - #34º Parceiro de negocio: CL017168, atualizado com sucesso.
+#25/07/2024 10:51:53 - #35º Parceiro de negocio: CL017170, atualizado com sucesso.
+#25/07/2024 10:51:54 - #36º Parceiro de negocio: CL017438, atualizado com sucesso.
+#25/07/2024 10:51:55 - #37º Parceiro de negocio: CL017608, atualizado com sucesso.
+#25/07/2024 10:51:55 - #38º Parceiro de negocio: CL017835, atualizado com sucesso.
+#25/07/2024 10:51:56 - #39º Parceiro de negocio: CL018300, atualizado com sucesso.
+#25/07/2024 10:51:57 - #40º Parceiro de negocio: CL018409, atualizado com sucesso.
+#25/07/2024 10:51:57 - #41º Parceiro de negocio: CL018571, atualizado com sucesso.
+#25/07/2024 10:51:58 - #42º Parceiro de negocio: CL018751, atualizado com sucesso.
+#25/07/2024 10:51:59 - #43º Parceiro de negocio: CL019001, atualizado com sucesso.
+#25/07/2024 10:52:00 - #44º Parceiro de negocio: CL019201, atualizado com sucesso.
+#25/07/2024 10:52:01 - #45º Parceiro de negocio: CL019266, atualizado com sucesso.
+#25/07/2024 10:52:02 - #46º Parceiro de negocio: CL019268, atualizado com sucesso.
+#25/07/2024 10:52:03 - #47º Parceiro de negocio: CL019477, atualizado com sucesso.
+#25/07/2024 10:52:04 - #48º Parceiro de negocio: CL019510, atualizado com sucesso.
+#25/07/2024 10:52:05 - #49º Parceiro de negocio: CL019511, atualizado com sucesso.
+#25/07/2024 10:52:06 - #50º Parceiro de negocio: CL019784, atualizado com sucesso.
+#25/07/2024 10:52:08 - #51º Parceiro de negocio: CL019824, atualizado com sucesso.
+#25/07/2024 10:52:10 - #52º Parceiro de negocio: CL020301, atualizado com sucesso.
+#25/07/2024 10:52:11 - #53º Parceiro de negocio: CL020409, atualizado com sucesso.
+25/07/2024 10:52:11 - Erro: #54º - Entity with value('CL020644') does not exist
+25/07/2024 10:52:11 - Erro: #54º - Entity with value('CL020644') does not exist
+25/07/2024 10:52:11 - Erro: #55º - Entity with value('CL020916') does not exist
+25/07/2024 10:52:11 - Erro: #55º - Entity with value('CL020916') does not exist
+25/07/2024 10:52:11 - Erro: #56º - Entity with value('CL020921') does not exist
+25/07/2024 10:52:11 - Erro: #56º - Entity with value('CL020921') does not exist
+25/07/2024 10:52:11 - Erro: #57º - Entity with value('CL020923') does not exist
+25/07/2024 10:52:11 - Erro: #57º - Entity with value('CL020923') does not exist
+25/07/2024 10:52:11 - Erro: #58º - Entity with value('CL020927') does not exist
+25/07/2024 10:52:11 - Erro: #58º - Entity with value('CL020927') does not exist
+25/07/2024 10:52:11 - Erro: #59º - Entity with value('CL020933') does not exist
+25/07/2024 10:52:11 - Erro: #59º - Entity with value('CL020933') does not exist
+25/07/2024 10:52:11 - Erro: #60º - Entity with value('CL020937') does not exist
+25/07/2024 10:52:11 - Erro: #60º - Entity with value('CL020937') does not exist
+25/07/2024 10:52:11 - Erro: #61º - Entity with value('CL020939') does not exist
+25/07/2024 10:52:11 - Erro: #61º - Entity with value('CL020939') does not exist
+25/07/2024 10:52:12 - Erro: #62º - Entity with value('CL020943') does not exist
+25/07/2024 10:52:12 - Erro: #62º - Entity with value('CL020943') does not exist
+25/07/2024 10:52:12 - Erro: #63º - Entity with value('CL020946') does not exist
+25/07/2024 10:52:12 - Erro: #63º - Entity with value('CL020946') does not exist
+25/07/2024 10:52:12 - Erro: #64º - Entity with value('CL020956') does not exist
+25/07/2024 10:52:12 - Erro: #64º - Entity with value('CL020956') does not exist
+25/07/2024 10:52:12 - Erro: #65º - Entity with value('CL020957') does not exist
+25/07/2024 10:52:12 - Erro: #65º - Entity with value('CL020957') does not exist
+25/07/2024 10:52:12 - Erro: #66º - Entity with value('CL020958') does not exist
+25/07/2024 10:52:12 - Erro: #66º - Entity with value('CL020958') does not exist
+25/07/2024 10:52:12 - Erro: #67º - Entity with value('CL020960') does not exist
+25/07/2024 10:52:12 - Erro: #67º - Entity with value('CL020960') does not exist
+25/07/2024 10:52:12 - Erro: #68º - Entity with value('CL020963') does not exist
+25/07/2024 10:52:12 - Erro: #68º - Entity with value('CL020963') does not exist
+25/07/2024 10:52:12 - Erro: #69º - Entity with value('CL020965') does not exist
+25/07/2024 10:52:12 - Erro: #69º - Entity with value('CL020965') does not exist
+25/07/2024 10:52:12 - Erro: #70º - Entity with value('CL020969') does not exist
+25/07/2024 10:52:12 - Erro: #70º - Entity with value('CL020969') does not exist
+25/07/2024 10:52:12 - Erro: #71º - Entity with value('CL020970') does not exist
+25/07/2024 10:52:12 - Erro: #71º - Entity with value('CL020970') does not exist
+25/07/2024 10:52:12 - Erro: #72º - Entity with value('CL020971') does not exist
+25/07/2024 10:52:12 - Erro: #72º - Entity with value('CL020971') does not exist
+25/07/2024 10:52:12 - Erro: #73º - Entity with value('CL020972') does not exist
+25/07/2024 10:52:12 - Erro: #73º - Entity with value('CL020972') does not exist
+25/07/2024 10:52:12 - Erro: #74º - Entity with value('CL020973') does not exist
+25/07/2024 10:52:12 - Erro: #74º - Entity with value('CL020973') does not exist
+25/07/2024 10:52:12 - Erro: #75º - Entity with value('CL020974') does not exist
+25/07/2024 10:52:12 - Erro: #75º - Entity with value('CL020974') does not exist
+25/07/2024 10:52:12 - Erro: #76º - Entity with value('CL020980') does not exist
+25/07/2024 10:52:12 - Erro: #76º - Entity with value('CL020980') does not exist
+25/07/2024 10:52:12 - Erro: #77º - Entity with value('CL020981') does not exist
+25/07/2024 10:52:12 - Erro: #77º - Entity with value('CL020981') does not exist
+25/07/2024 10:52:12 - Erro: #78º - Entity with value('CL020984') does not exist
+25/07/2024 10:52:12 - Erro: #78º - Entity with value('CL020984') does not exist
+25/07/2024 10:52:12 - Erro: #79º - Entity with value('CL020986') does not exist
+25/07/2024 10:52:12 - Erro: #79º - Entity with value('CL020986') does not exist
+25/07/2024 10:52:13 - Erro: #80º - Entity with value('CL020987') does not exist
+25/07/2024 10:52:13 - Erro: #80º - Entity with value('CL020987') does not exist
+25/07/2024 10:52:13 - Erro: #81º - Entity with value('CL020990') does not exist
+25/07/2024 10:52:13 - Erro: #81º - Entity with value('CL020990') does not exist
+25/07/2024 10:52:13 - Erro: #82º - Entity with value('CL020994') does not exist
+25/07/2024 10:52:13 - Erro: #82º - Entity with value('CL020994') does not exist
+25/07/2024 10:52:13 - Erro: #83º - Entity with value('CL020995') does not exist
+25/07/2024 10:52:13 - Erro: #83º - Entity with value('CL020995') does not exist
+25/07/2024 10:52:13 - Erro: #84º - Entity with value('CL021016') does not exist
+25/07/2024 10:52:13 - Erro: #84º - Entity with value('CL021016') does not exist
+25/07/2024 10:52:13 - Erro: #85º - Entity with value('CL021087') does not exist
+25/07/2024 10:52:13 - Erro: #85º - Entity with value('CL021087') does not exist
+25/07/2024 10:52:13 - Erro: #86º - Entity with value('CL021106') does not exist
+25/07/2024 10:52:13 - Erro: #86º - Entity with value('CL021106') does not exist
+25/07/2024 10:52:13 - Erro: #87º - Entity with value('CL021116') does not exist
+25/07/2024 10:52:13 - Erro: #87º - Entity with value('CL021116') does not exist
+25/07/2024 10:52:13 - Erro: #88º - Entity with value('CL021120') does not exist
+25/07/2024 10:52:13 - Erro: #88º - Entity with value('CL021120') does not exist
+25/07/2024 10:52:13 - Erro: #89º - Entity with value('CL021198') does not exist
+25/07/2024 10:52:13 - Erro: #89º - Entity with value('CL021198') does not exist
+25/07/2024 10:52:13 - Erro: #90º - Entity with value('CL021199') does not exist
+25/07/2024 10:52:13 - Erro: #90º - Entity with value('CL021199') does not exist
+25/07/2024 10:52:13 - Erro: #91º - Entity with value('CL021200') does not exist
+25/07/2024 10:52:13 - Erro: #91º - Entity with value('CL021200') does not exist
+25/07/2024 10:52:13 - Erro: #92º - Entity with value('CL021209') does not exist
+25/07/2024 10:52:13 - Erro: #92º - Entity with value('CL021209') does not exist
+25/07/2024 10:52:13 - Erro: #93º - Entity with value('CL021214') does not exist
+25/07/2024 10:52:13 - Erro: #93º - Entity with value('CL021214') does not exist
+25/07/2024 10:52:13 - Erro: #94º - Entity with value('CL021294') does not exist
+25/07/2024 10:52:13 - Erro: #94º - Entity with value('CL021294') does not exist
+25/07/2024 10:52:13 - Erro: #95º - Entity with value('CL021382') does not exist
+25/07/2024 10:52:13 - Erro: #95º - Entity with value('CL021382') does not exist
+25/07/2024 10:52:14 - Erro: #96º - Entity with value('CL021383') does not exist
+25/07/2024 10:52:14 - Erro: #96º - Entity with value('CL021383') does not exist
+25/07/2024 10:52:14 - Erro: #97º - Entity with value('CL021395') does not exist
+25/07/2024 10:52:14 - Erro: #97º - Entity with value('CL021395') does not exist
+25/07/2024 10:52:14 - Erro: #98º - Entity with value('CL021465') does not exist
+25/07/2024 10:52:14 - Erro: #98º - Entity with value('CL021465') does not exist
+25/07/2024 10:52:14 - Erro: #99º - Entity with value('CL021468') does not exist
+25/07/2024 10:52:14 - Erro: #99º - Entity with value('CL021468') does not exist
+25/07/2024 10:52:14 - Erro: #100º - Entity with value('CL021470') does not exist
+25/07/2024 10:52:14 - Erro: #100º - Entity with value('CL021470') does not exist
+25/07/2024 10:52:14 - Erro: #101º - Entity with value('CL021473') does not exist
+25/07/2024 10:52:14 - Erro: #101º - Entity with value('CL021473') does not exist
+25/07/2024 10:52:14 - Erro: #102º - Entity with value('CL021475') does not exist
+25/07/2024 10:52:14 - Erro: #102º - Entity with value('CL021475') does not exist
+25/07/2024 10:52:14 - Erro: #103º - Entity with value('CL021522') does not exist
+25/07/2024 10:52:14 - Erro: #103º - Entity with value('CL021522') does not exist
+25/07/2024 10:52:14 - Erro: #104º - Entity with value('CL021820') does not exist
+25/07/2024 10:52:14 - Erro: #104º - Entity with value('CL021820') does not exist
+25/07/2024 10:52:14 - Erro: #105º - Entity with value('CL021821') does not exist
+25/07/2024 10:52:14 - Erro: #105º - Entity with value('CL021821') does not exist
+25/07/2024 10:52:14 - Erro: #106º - Entity with value('CL021824') does not exist
+25/07/2024 10:52:14 - Erro: #106º - Entity with value('CL021824') does not exist
+25/07/2024 10:52:14 - Erro: #107º - Entity with value('CL021827') does not exist
+25/07/2024 10:52:14 - Erro: #107º - Entity with value('CL021827') does not exist
+25/07/2024 10:52:14 - Erro: #108º - Entity with value('CL021926') does not exist
+25/07/2024 10:52:14 - Erro: #108º - Entity with value('CL021926') does not exist
+25/07/2024 10:52:14 - Erro: #109º - Entity with value('CL021939') does not exist
+25/07/2024 10:52:14 - Erro: #109º - Entity with value('CL021939') does not exist
+25/07/2024 10:52:15 - Erro: #110º - Entity with value('CL021940') does not exist
+25/07/2024 10:52:15 - Erro: #110º - Entity with value('CL021940') does not exist
+25/07/2024 10:52:15 - Erro: #111º - Entity with value('CL021996') does not exist
+25/07/2024 10:52:15 - Erro: #111º - Entity with value('CL021996') does not exist
+25/07/2024 10:52:15 - Erro: #112º - Entity with value('CL022084') does not exist
+25/07/2024 10:52:15 - Erro: #112º - Entity with value('CL022084') does not exist
+25/07/2024 10:52:15 - Erro: #113º - Entity with value('CL022085') does not exist
+25/07/2024 10:52:15 - Erro: #113º - Entity with value('CL022085') does not exist
+25/07/2024 10:52:15 - Erro: #114º - Entity with value('CL022146') does not exist
+25/07/2024 10:52:15 - Erro: #114º - Entity with value('CL022146') does not exist
+25/07/2024 10:52:15 - Erro: #115º - Entity with value('CL022313') does not exist
+25/07/2024 10:52:15 - Erro: #115º - Entity with value('CL022313') does not exist
+25/07/2024 10:52:15 - Erro: #116º - Entity with value('CL022315') does not exist
+25/07/2024 10:52:15 - Erro: #116º - Entity with value('CL022315') does not exist
+25/07/2024 10:52:15 - Erro: #117º - Entity with value('CL022386') does not exist
+25/07/2024 10:52:15 - Erro: #117º - Entity with value('CL022386') does not exist
+25/07/2024 10:52:15 - Erro: #118º - Entity with value('CL022480') does not exist
+25/07/2024 10:52:15 - Erro: #118º - Entity with value('CL022480') does not exist
+25/07/2024 10:52:15 - Erro: #119º - Entity with value('CL022484') does not exist
+25/07/2024 10:52:15 - Erro: #119º - Entity with value('CL022484') does not exist
+25/07/2024 10:52:15 - Erro: #120º - Entity with value('CL022527') does not exist
+25/07/2024 10:52:15 - Erro: #120º - Entity with value('CL022527') does not exist
+25/07/2024 10:52:15 - Erro: #121º - Entity with value('CL022601') does not exist
+25/07/2024 10:52:15 - Erro: #121º - Entity with value('CL022601') does not exist
+25/07/2024 10:52:15 - Erro: #122º - Entity with value('CL022603') does not exist
+25/07/2024 10:52:15 - Erro: #122º - Entity with value('CL022603') does not exist
+25/07/2024 10:52:15 - Erro: #123º - Entity with value('CL022604') does not exist
+25/07/2024 10:52:15 - Erro: #123º - Entity with value('CL022604') does not exist
+25/07/2024 10:52:15 - Erro: #124º - Entity with value('CL022605') does not exist
+25/07/2024 10:52:15 - Erro: #124º - Entity with value('CL022605') does not exist
+25/07/2024 10:52:15 - Erro: #125º - Entity with value('CL022786') does not exist
+25/07/2024 10:52:15 - Erro: #125º - Entity with value('CL022786') does not exist
+25/07/2024 10:52:15 - Erro: #126º - Entity with value('CL022788') does not exist
+25/07/2024 10:52:15 - Erro: #126º - Entity with value('CL022788') does not exist
+25/07/2024 10:52:16 - Erro: #127º - Entity with value('CL022791') does not exist
+25/07/2024 10:52:16 - Erro: #127º - Entity with value('CL022791') does not exist
+25/07/2024 10:52:16 - Erro: #128º - Entity with value('CL022796') does not exist
+25/07/2024 10:52:16 - Erro: #128º - Entity with value('CL022796') does not exist
+25/07/2024 10:52:16 - Erro: #129º - Entity with value('CL022974') does not exist
+25/07/2024 10:52:16 - Erro: #129º - Entity with value('CL022974') does not exist
+25/07/2024 10:52:16 - Erro: #130º - Entity with value('CL022976') does not exist
+25/07/2024 10:52:16 - Erro: #130º - Entity with value('CL022976') does not exist
+25/07/2024 10:52:16 - Erro: #131º - Entity with value('CL022995') does not exist
+25/07/2024 10:52:16 - Erro: #131º - Entity with value('CL022995') does not exist
+25/07/2024 10:52:16 - Erro: #132º - Entity with value('CL023002') does not exist
+25/07/2024 10:52:16 - Erro: #132º - Entity with value('CL023002') does not exist
+25/07/2024 10:52:16 - Erro: #133º - Entity with value('CL023149') does not exist
+25/07/2024 10:52:16 - Erro: #133º - Entity with value('CL023149') does not exist
+25/07/2024 10:52:16 - Erro: #134º - Entity with value('CL023202') does not exist
+25/07/2024 10:52:16 - Erro: #134º - Entity with value('CL023202') does not exist
+25/07/2024 10:52:16 - Erro: #135º - Entity with value('CL023205') does not exist
+25/07/2024 10:52:16 - Erro: #135º - Entity with value('CL023205') does not exist
+25/07/2024 10:52:16 - Erro: #136º - Entity with value('CL023214') does not exist
+25/07/2024 10:52:16 - Erro: #136º - Entity with value('CL023214') does not exist
+25/07/2024 10:52:16 - Erro: #137º - Entity with value('CL023215') does not exist
+25/07/2024 10:52:16 - Erro: #137º - Entity with value('CL023215') does not exist
+25/07/2024 10:52:16 - Erro: #138º - Entity with value('CL023218') does not exist
+25/07/2024 10:52:16 - Erro: #138º - Entity with value('CL023218') does not exist
+25/07/2024 10:52:16 - Erro: #139º - Entity with value('CL023219') does not exist
+25/07/2024 10:52:16 - Erro: #139º - Entity with value('CL023219') does not exist
+25/07/2024 10:52:16 - Erro: #140º - Entity with value('CL023220') does not exist
+25/07/2024 10:52:16 - Erro: #140º - Entity with value('CL023220') does not exist
+25/07/2024 10:52:17 - Erro: #141º - Entity with value('CL023221') does not exist
+25/07/2024 10:52:17 - Erro: #141º - Entity with value('CL023221') does not exist
+25/07/2024 10:52:17 - Erro: #142º - Entity with value('CL023263') does not exist
+25/07/2024 10:52:17 - Erro: #142º - Entity with value('CL023263') does not exist
+25/07/2024 10:52:17 - Erro: #143º - Entity with value('CL023265') does not exist
+25/07/2024 10:52:17 - Erro: #143º - Entity with value('CL023265') does not exist
+25/07/2024 10:52:17 - Erro: #144º - Entity with value('CL023266') does not exist
+25/07/2024 10:52:17 - Erro: #144º - Entity with value('CL023266') does not exist
+#25/07/2024 10:52:17 - #145º Parceiro de negocio: CL008151, atualizado com sucesso.
+#25/07/2024 10:52:18 - #146º Parceiro de negocio: CL008228, atualizado com sucesso.
+#25/07/2024 10:52:19 - #147º Parceiro de negocio: CL008229, atualizado com sucesso.
+#25/07/2024 10:52:19 - #148º Parceiro de negocio: CL008230, atualizado com sucesso.
+#25/07/2024 10:52:22 - #149º Parceiro de negocio: CL008232, atualizado com sucesso.
+#25/07/2024 10:52:24 - #150º Parceiro de negocio: CL008233, atualizado com sucesso.
+#25/07/2024 10:52:25 - #151º Parceiro de negocio: CL008234, atualizado com sucesso.
+#25/07/2024 10:52:26 - #152º Parceiro de negocio: CL008237, atualizado com sucesso.
+#25/07/2024 10:52:27 - #153º Parceiro de negocio: CL008242, atualizado com sucesso.
+#25/07/2024 10:52:28 - #154º Parceiro de negocio: CL008248, atualizado com sucesso.
+#25/07/2024 10:52:29 - #155º Parceiro de negocio: CL008249, atualizado com sucesso.
+#25/07/2024 10:52:29 - #156º Parceiro de negocio: CL008250, atualizado com sucesso.
+#25/07/2024 10:52:30 - #157º Parceiro de negocio: CL008254, atualizado com sucesso.
+#25/07/2024 10:52:31 - #158º Parceiro de negocio: CL008256, atualizado com sucesso.
+#25/07/2024 10:52:33 - #159º Parceiro de negocio: CL008259, atualizado com sucesso.
+#25/07/2024 10:52:35 - #160º Parceiro de negocio: CL008260, atualizado com sucesso.
+#25/07/2024 10:52:37 - #161º Parceiro de negocio: CL008261, atualizado com sucesso.
+#25/07/2024 10:52:38 - #162º Parceiro de negocio: CL008262, atualizado com sucesso.
+#25/07/2024 10:52:38 - #163º Parceiro de negocio: CL008263, atualizado com sucesso.
+#25/07/2024 10:52:39 - #164º Parceiro de negocio: CL008264, atualizado com sucesso.
+#25/07/2024 10:52:40 - #165º Parceiro de negocio: CL008269, atualizado com sucesso.
+#25/07/2024 10:52:41 - #166º Parceiro de negocio: CL008270, atualizado com sucesso.
+#25/07/2024 10:52:43 - #167º Parceiro de negocio: CL008272, atualizado com sucesso.
+#25/07/2024 10:52:43 - #168º Parceiro de negocio: CL008273, atualizado com sucesso.
+#25/07/2024 10:52:46 - #169º Parceiro de negocio: CL008274, atualizado com sucesso.
+#25/07/2024 10:52:46 - #170º Parceiro de negocio: CL008279, atualizado com sucesso.
+#25/07/2024 10:52:47 - #171º Parceiro de negocio: CL008285, atualizado com sucesso.
+#25/07/2024 10:52:48 - #172º Parceiro de negocio: CL008287, atualizado com sucesso.
+#25/07/2024 10:52:48 - #173º Parceiro de negocio: CL008289, atualizado com sucesso.
+#25/07/2024 10:52:49 - #174º Parceiro de negocio: CL008292, atualizado com sucesso.
+#25/07/2024 10:52:50 - #175º Parceiro de negocio: CL008294, atualizado com sucesso.
+#25/07/2024 10:52:50 - #176º Parceiro de negocio: CL008296, atualizado com sucesso.
+#25/07/2024 10:52:51 - #177º Parceiro de negocio: CL008297, atualizado com sucesso.
+#25/07/2024 10:52:52 - #178º Parceiro de negocio: CL008298, atualizado com sucesso.
+#25/07/2024 10:52:52 - #179º Parceiro de negocio: CL008299, atualizado com sucesso.
+#25/07/2024 10:52:53 - #180º Parceiro de negocio: CL008300, atualizado com sucesso.
+#25/07/2024 10:52:54 - #181º Parceiro de negocio: CL008308, atualizado com sucesso.
+#25/07/2024 10:52:55 - #182º Parceiro de negocio: CL008309, atualizado com sucesso.
+#25/07/2024 10:52:56 - #183º Parceiro de negocio: CL008314, atualizado com sucesso.
+#25/07/2024 10:52:57 - #184º Parceiro de negocio: CL008315, atualizado com sucesso.
+#25/07/2024 10:52:57 - #185º Parceiro de negocio: CL008321, atualizado com sucesso.
+#25/07/2024 10:52:58 - #186º Parceiro de negocio: CL008323, atualizado com sucesso.
+#25/07/2024 10:52:59 - #187º Parceiro de negocio: CL008324, atualizado com sucesso.
+#25/07/2024 10:53:00 - #188º Parceiro de negocio: CL008325, atualizado com sucesso.
+#25/07/2024 10:53:01 - #189º Parceiro de negocio: CL008327, atualizado com sucesso.
+#25/07/2024 10:53:02 - #190º Parceiro de negocio: CL008332, atualizado com sucesso.
+#25/07/2024 10:53:03 - #191º Parceiro de negocio: CL008333, atualizado com sucesso.
+#25/07/2024 10:53:04 - #192º Parceiro de negocio: CL008336, atualizado com sucesso.
+#25/07/2024 10:53:06 - #193º Parceiro de negocio: CL008338, atualizado com sucesso.
+#25/07/2024 10:53:08 - #194º Parceiro de negocio: CL008340, atualizado com sucesso.
+#25/07/2024 10:53:09 - #195º Parceiro de negocio: CL008348, atualizado com sucesso.
+#25/07/2024 10:53:09 - #196º Parceiro de negocio: CL008352, atualizado com sucesso.
+#25/07/2024 10:53:12 - #197º Parceiro de negocio: CL008363, atualizado com sucesso.
+#25/07/2024 10:53:14 - #198º Parceiro de negocio: CL008365, atualizado com sucesso.
+#25/07/2024 10:53:14 - #199º Parceiro de negocio: CL008370, atualizado com sucesso.
+#25/07/2024 10:53:15 - #200º Parceiro de negocio: CL008373, atualizado com sucesso.
+#25/07/2024 10:53:16 - #201º Parceiro de negocio: CL008377, atualizado com sucesso.
+#25/07/2024 10:53:18 - #202º Parceiro de negocio: CL008381, atualizado com sucesso.
+#25/07/2024 10:53:20 - #203º Parceiro de negocio: CL008384, atualizado com sucesso.
+#25/07/2024 10:53:23 - #204º Parceiro de negocio: CL008386, atualizado com sucesso.
+#25/07/2024 10:53:24 - #205º Parceiro de negocio: CL008399, atualizado com sucesso.
+#25/07/2024 10:53:24 - #206º Parceiro de negocio: CL008401, atualizado com sucesso.
+#25/07/2024 10:53:26 - #207º Parceiro de negocio: CL008405, atualizado com sucesso.
+#25/07/2024 10:53:28 - #208º Parceiro de negocio: CL008407, atualizado com sucesso.
+#25/07/2024 10:53:29 - #209º Parceiro de negocio: CL008408, atualizado com sucesso.
+#25/07/2024 10:53:30 - #210º Parceiro de negocio: CL008419, atualizado com sucesso.
+#25/07/2024 10:53:31 - #211º Parceiro de negocio: CL008421, atualizado com sucesso.
+#25/07/2024 10:53:33 - #212º Parceiro de negocio: CL008422, atualizado com sucesso.
+#25/07/2024 10:53:35 - #213º Parceiro de negocio: CL008424, atualizado com sucesso.
+#25/07/2024 10:53:38 - #214º Parceiro de negocio: CL008426, atualizado com sucesso.
+#25/07/2024 10:53:38 - #215º Parceiro de negocio: CL008430, atualizado com sucesso.
+#25/07/2024 10:53:39 - #216º Parceiro de negocio: CL008431, atualizado com sucesso.
+#25/07/2024 10:53:41 - #217º Parceiro de negocio: CL008432, atualizado com sucesso.
+#25/07/2024 10:53:44 - #218º Parceiro de negocio: CL008433, atualizado com sucesso.
+#25/07/2024 10:53:44 - #219º Parceiro de negocio: CL008444, atualizado com sucesso.
+#25/07/2024 10:53:45 - #220º Parceiro de negocio: CL008445, atualizado com sucesso.
+#25/07/2024 10:53:46 - #221º Parceiro de negocio: CL008448, atualizado com sucesso.
+#25/07/2024 10:53:48 - #222º Parceiro de negocio: CL008449, atualizado com sucesso.
+#25/07/2024 10:53:50 - #223º Parceiro de negocio: CL008456, atualizado com sucesso.
+#25/07/2024 10:53:51 - #224º Parceiro de negocio: CL008693, atualizado com sucesso.
+#25/07/2024 10:53:53 - #225º Parceiro de negocio: CL008695, atualizado com sucesso.
+#25/07/2024 10:53:54 - #226º Parceiro de negocio: CL009242, atualizado com sucesso.
+#25/07/2024 10:53:55 - #227º Parceiro de negocio: CL009267, atualizado com sucesso.
+#25/07/2024 10:53:57 - #228º Parceiro de negocio: CL009524, atualizado com sucesso.
+#25/07/2024 10:53:58 - #229º Parceiro de negocio: CL009784, atualizado com sucesso.
+#25/07/2024 10:53:58 - #230º Parceiro de negocio: CL009969, atualizado com sucesso.
+#25/07/2024 10:53:59 - #231º Parceiro de negocio: CL010344, atualizado com sucesso.
+#25/07/2024 10:54:00 - #232º Parceiro de negocio: CL010367, atualizado com sucesso.
+#25/07/2024 10:54:01 - #233º Parceiro de negocio: CL010421, atualizado com sucesso.
+#25/07/2024 10:54:02 - #234º Parceiro de negocio: CL011879, atualizado com sucesso.
+#25/07/2024 10:54:02 - #235º Parceiro de negocio: CL013142, atualizado com sucesso.
+#25/07/2024 10:54:03 - #236º Parceiro de negocio: CL015071, atualizado com sucesso.
+#25/07/2024 10:54:04 - #237º Parceiro de negocio: CL015784, atualizado com sucesso.
+#25/07/2024 10:54:05 - #238º Parceiro de negocio: CL017436, atualizado com sucesso.
+#25/07/2024 10:54:06 - #239º Parceiro de negocio: CL017570, atualizado com sucesso.
+#25/07/2024 10:54:06 - #240º Parceiro de negocio: CL017573, atualizado com sucesso.
+#25/07/2024 10:54:07 - #241º Parceiro de negocio: CL019594, atualizado com sucesso.
+#25/07/2024 10:54:07 - #242º Parceiro de negocio: CL010443, atualizado com sucesso.
+#25/07/2024 10:54:08 - #243º Parceiro de negocio: CL010492, atualizado com sucesso.
+#25/07/2024 10:54:09 - #244º Parceiro de negocio: CL008351, atualizado com sucesso.
+#25/07/2024 10:54:10 - #245º Parceiro de negocio: CL008369, atualizado com sucesso.
+#25/07/2024 10:54:10 - #246º Parceiro de negocio: CL008382, atualizado com sucesso.
+#25/07/2024 10:54:11 - #247º Parceiro de negocio: CL008389, atualizado com sucesso.
+#25/07/2024 10:54:12 - #248º Parceiro de negocio: CL008391, atualizado com sucesso.
+#25/07/2024 10:54:13 - #249º Parceiro de negocio: CL008406, atualizado com sucesso.
+#25/07/2024 10:54:13 - #250º Parceiro de negocio: CL008413, atualizado com sucesso.
+#25/07/2024 10:54:14 - #251º Parceiro de negocio: CL008418, atualizado com sucesso.
+#25/07/2024 10:54:15 - #252º Parceiro de negocio: CL008434, atualizado com sucesso.
+#25/07/2024 10:54:16 - #253º Parceiro de negocio: CL009557, atualizado com sucesso.
+#25/07/2024 10:54:17 - #254º Parceiro de negocio: CL009559, atualizado com sucesso.
+#25/07/2024 10:54:17 - #255º Parceiro de negocio: CL009807, atualizado com sucesso.
+#25/07/2024 10:54:18 - #256º Parceiro de negocio: CL009809, atualizado com sucesso.
+#25/07/2024 10:54:19 - #257º Parceiro de negocio: CL009971, atualizado com sucesso.
+#25/07/2024 10:54:20 - #258º Parceiro de negocio: CL010488, atualizado com sucesso.
+#25/07/2024 10:54:21 - #259º Parceiro de negocio: CL010634, atualizado com sucesso.
+#25/07/2024 10:54:21 - #260º Parceiro de negocio: CL010689, atualizado com sucesso.
+#25/07/2024 10:54:22 - #261º Parceiro de negocio: CL010729, atualizado com sucesso.
+#25/07/2024 10:54:23 - #262º Parceiro de negocio: CL010831, atualizado com sucesso.
+#25/07/2024 10:54:24 - #263º Parceiro de negocio: CL010833, atualizado com sucesso.
+#25/07/2024 10:54:24 - #264º Parceiro de negocio: CL011191, atualizado com sucesso.
+#25/07/2024 10:54:25 - #265º Parceiro de negocio: CL011955, atualizado com sucesso.
+#25/07/2024 10:54:26 - #266º Parceiro de negocio: CL012323, atualizado com sucesso.
+#25/07/2024 10:54:27 - #267º Parceiro de negocio: CL012569, atualizado com sucesso.
+#25/07/2024 10:54:27 - #268º Parceiro de negocio: CL012651, atualizado com sucesso.
+#25/07/2024 10:54:28 - #269º Parceiro de negocio: CL012837, atualizado com sucesso.
+#25/07/2024 10:54:29 - #270º Parceiro de negocio: CL012839, atualizado com sucesso.
+#25/07/2024 10:54:29 - #271º Parceiro de negocio: CL013068, atualizado com sucesso.
+#25/07/2024 10:54:30 - #272º Parceiro de negocio: CL013110, atualizado com sucesso.
+#25/07/2024 10:54:31 - #273º Parceiro de negocio: CL013524, atualizado com sucesso.
+#25/07/2024 10:54:32 - #274º Parceiro de negocio: CL013576, atualizado com sucesso.
+#25/07/2024 10:54:33 - #275º Parceiro de negocio: CL013601, atualizado com sucesso.
+#25/07/2024 10:54:34 - #276º Parceiro de negocio: CL013717, atualizado com sucesso.
+#25/07/2024 10:54:35 - #277º Parceiro de negocio: CL013718, atualizado com sucesso.
+#25/07/2024 10:54:36 - #278º Parceiro de negocio: CL013758, atualizado com sucesso.
+#25/07/2024 10:54:37 - #279º Parceiro de negocio: CL013867, atualizado com sucesso.
+#25/07/2024 10:54:39 - #280º Parceiro de negocio: CL013868, atualizado com sucesso.
+#25/07/2024 10:54:39 - #281º Parceiro de negocio: CL013881, atualizado com sucesso.
+#25/07/2024 10:54:40 - #282º Parceiro de negocio: CL014060, atualizado com sucesso.
+#25/07/2024 10:54:46 - #283º Parceiro de negocio: CL014130, atualizado com sucesso.
+#25/07/2024 10:55:06 - #284º Parceiro de negocio: CL014202, atualizado com sucesso.
+#25/07/2024 10:55:06 - #285º Parceiro de negocio: CL014204, atualizado com sucesso.
+#25/07/2024 10:55:07 - #286º Parceiro de negocio: CL014205, atualizado com sucesso.
+#25/07/2024 10:55:09 - #287º Parceiro de negocio: CL014353, atualizado com sucesso.
+#25/07/2024 10:55:10 - #288º Parceiro de negocio: CL014358, atualizado com sucesso.
+#25/07/2024 10:55:12 - #289º Parceiro de negocio: CL014421, atualizado com sucesso.
+#25/07/2024 10:55:14 - #290º Parceiro de negocio: CL014854, atualizado com sucesso.
+#25/07/2024 10:55:15 - #291º Parceiro de negocio: CL015070, atualizado com sucesso.
+#25/07/2024 10:55:17 - #292º Parceiro de negocio: CL015246, atualizado com sucesso.
+#25/07/2024 10:55:18 - #293º Parceiro de negocio: CL015506, atualizado com sucesso.
+#25/07/2024 10:55:19 - #294º Parceiro de negocio: CL015507, atualizado com sucesso.
+#25/07/2024 10:55:21 - #295º Parceiro de negocio: CL015678, atualizado com sucesso.
+#25/07/2024 10:55:21 - #296º Parceiro de negocio: CL015741, atualizado com sucesso.
+#25/07/2024 10:55:22 - #297º Parceiro de negocio: CL015972, atualizado com sucesso.
+#25/07/2024 10:55:23 - #298º Parceiro de negocio: CL015974, atualizado com sucesso.
+#25/07/2024 10:55:24 - #299º Parceiro de negocio: CL015976, atualizado com sucesso.
+#25/07/2024 10:55:24 - #300º Parceiro de negocio: CL016211, atualizado com sucesso.
+#25/07/2024 10:55:25 - #301º Parceiro de negocio: CL016212, atualizado com sucesso.
+#25/07/2024 10:55:26 - #302º Parceiro de negocio: CL016213, atualizado com sucesso.
+#25/07/2024 10:55:26 - #303º Parceiro de negocio: CL016214, atualizado com sucesso.
+#25/07/2024 10:55:27 - #304º Parceiro de negocio: CL016215, atualizado com sucesso.
+#25/07/2024 10:55:28 - #305º Parceiro de negocio: CL016378, atualizado com sucesso.
+#25/07/2024 10:55:28 - #306º Parceiro de negocio: CL016823, atualizado com sucesso.
+#25/07/2024 10:55:29 - #307º Parceiro de negocio: CL016828, atualizado com sucesso.
+#25/07/2024 10:55:30 - #308º Parceiro de negocio: CL016983, atualizado com sucesso.
+#25/07/2024 10:55:30 - #309º Parceiro de negocio: CL016993, atualizado com sucesso.
+#25/07/2024 10:55:31 - #310º Parceiro de negocio: CL016994, atualizado com sucesso.
+#25/07/2024 10:55:32 - #311º Parceiro de negocio: CL017032, atualizado com sucesso.
+#25/07/2024 10:55:33 - #312º Parceiro de negocio: CL017034, atualizado com sucesso.
+#25/07/2024 10:55:34 - #313º Parceiro de negocio: CL017037, atualizado com sucesso.
+#25/07/2024 10:55:34 - #314º Parceiro de negocio: CL017173, atualizado com sucesso.
+#25/07/2024 10:55:35 - #315º Parceiro de negocio: CL017758, atualizado com sucesso.
+#25/07/2024 10:55:35 - #316º Parceiro de negocio: CL017837, atualizado com sucesso.
+#25/07/2024 10:55:36 - #317º Parceiro de negocio: CL017981, atualizado com sucesso.
+#25/07/2024 10:55:37 - #318º Parceiro de negocio: CL018067, atualizado com sucesso.
+#25/07/2024 10:55:38 - #319º Parceiro de negocio: CL018068, atualizado com sucesso.
+#25/07/2024 10:55:38 - #320º Parceiro de negocio: CL018339, atualizado com sucesso.
+#25/07/2024 10:55:39 - #321º Parceiro de negocio: CL018375, atualizado com sucesso.
+#25/07/2024 10:55:39 - #322º Parceiro de negocio: CL018574, atualizado com sucesso.
+#25/07/2024 10:55:40 - #323º Parceiro de negocio: CL018833, atualizado com sucesso.
+#25/07/2024 10:55:41 - #324º Parceiro de negocio: CL018841, atualizado com sucesso.
+#25/07/2024 10:55:41 - #325º Parceiro de negocio: CL019199, atualizado com sucesso.
+#25/07/2024 10:55:42 - #326º Parceiro de negocio: CL019203, atualizado com sucesso.
+#25/07/2024 10:55:43 - #327º Parceiro de negocio: CL019270, atualizado com sucesso.
+#25/07/2024 10:55:43 - #328º Parceiro de negocio: CL019322, atualizado com sucesso.
+#25/07/2024 10:55:44 - #329º Parceiro de negocio: CL019324, atualizado com sucesso.
+#25/07/2024 10:55:44 - #330º Parceiro de negocio: CL019414, atualizado com sucesso.
+#25/07/2024 10:55:45 - #331º Parceiro de negocio: CL019651, atualizado com sucesso.
+#25/07/2024 10:55:46 - #332º Parceiro de negocio: CL019741, atualizado com sucesso.
+25/07/2024 10:55:46 - Erro: #333º - Entity with value('CL020920') does not exist
+25/07/2024 10:55:46 - Erro: #333º - Entity with value('CL020920') does not exist
+#25/07/2024 10:55:46 - #334º Parceiro de negocio: CL015965, atualizado com sucesso.
+25/07/2024 10:55:46 - Processo Finalizado.

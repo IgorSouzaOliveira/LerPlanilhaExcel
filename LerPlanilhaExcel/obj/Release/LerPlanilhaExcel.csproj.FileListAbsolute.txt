@@ -32,3 +32,13 @@ C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\obj\Rel
 C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\obj\Release\LerPlanilhaExcel.exe
 C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\obj\Release\LerPlanilhaExcel.pdb
 C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\Arquivo\BusinessPartners.xlsx
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\System.Text.Json.dll
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\System.ValueTuple.dll
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\System.Text.Encodings.Web.xml
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\System.Text.Json.xml
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\igor.oliveira\Desktop\_source\LerPlanilhaExcel\LerPlanilhaExcel\bin\Release\System.ValueTuple.xml

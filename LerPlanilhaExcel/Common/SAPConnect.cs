@@ -9,6 +9,7 @@ using System.Net;
 using System.Net.Security;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 using System.Xml;
 
@@ -91,6 +92,8 @@ namespace LerPlanilhaExcel.Common
 
             try
             {
+
+
                 var client = new RestClient(_slAddress);
                 var request = new RestRequest($"/BusinessPartners('{oBP.CardCode}')", Method.PATCH);
                 request.AddHeader("Content-Type", "application/json");
@@ -109,8 +112,7 @@ namespace LerPlanilhaExcel.Common
                 if (response.StatusCode != HttpStatusCode.NoContent)
                 {
                     dynamic ret = Newtonsoft.Json.JsonConvert.DeserializeObject<dynamic>(response.Content);
-                    Console.WriteLine($"{DateTime.Now} - Erro: #{line}º - {ret.error.message.value}");
-                    LogCreate.Log($"{DateTime.Now} - Erro: #{line}º - {ret.error.message.value}");
+                    throw new Exception($"{DateTime.Now} - Erro: #{line}º - {ret.error.message.value}");
                 }
 
                 Console.WriteLine($"{DateTime.Now} - #{line}º Parceiro de negocio: {oBP.CardCode}, atualizado com sucesso.");

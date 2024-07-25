@@ -13,10 +13,7 @@ namespace LerPlanilhaExcel
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine($"{DateTime.Now} - Iniciando processo de atualização.\n");
-            LogCreate.Log($"{DateTime.Now} - Iniciando processo de atualização.\n");
-
+        {            
             ExcelModel.ReadExcel();
             Thread.Sleep(5000);
 
